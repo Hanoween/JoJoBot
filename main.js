@@ -111,5 +111,5 @@ client.on('message', message => {
     }
 });
 
-client.login('OTgwOTIzODQ1ODE5MTI1ODIw.GNdZAC.4DshGDqNQP-8OHoEiGCbzQVVQamre7C4Y3I2so');
+client.login('INSERT TOKEN');
 
