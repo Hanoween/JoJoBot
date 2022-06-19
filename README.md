@@ -1,2 +1,2 @@
 # JoJoBot
-Post random JoJo references
+Posts random JoJo references
